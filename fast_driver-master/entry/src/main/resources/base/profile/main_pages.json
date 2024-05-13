@@ -1,0 +1,7 @@
+{
+  "src": [
+    "pages/Index/Index",
+    "pages/Start/Start",
+    "pages/Login/Login"
+  ]
+}
